@@ -1,0 +1,28 @@
+#mainDiv {
+  text-align: center;
+  width: 50%;
+  background-color: lightblue;
+}
+h6 {
+  font-size: xx-large;
+  font-weight: bolder;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  margin-bottom: 50px;
+  border: 1px solid black;
+  align-content: center;
+}
+
+table th,
+table td {
+  border: 1px solid black;
+  min-width: 20px;
+  text-align: center;
+}
+
+#indexTable th {
+  cursor: pointer;
+}
